@@ -2,6 +2,8 @@
 
 Making speech possible regardless of platform.
 
+`sudo apt install espeak`
+
 ### Useful Links
 
 * [espeak](http://espeak.sourceforge.net/)
